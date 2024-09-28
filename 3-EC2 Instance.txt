@@ -24,3 +24,8 @@
 
 5.GPU instance
     For applications that require some heavy graphics rendering
+
+
+Elastic Load Balancing
+
+Elastic Load Balancing is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances. 
