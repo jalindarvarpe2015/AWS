@@ -1,1 +1,8 @@
 # This is my AWS Learning 
+
+Four Business factor to choose region 
+
+1) Complience
+2) Proximity - how close you are to datacentre
+3) Features and Avaibility
+4) Pricing 
