@@ -1,0 +1,8 @@
+# Step Function 
+
+-Allow you to create workflows that follow a fixed or dynamic sequence -aka steps
+
+- built in retry functionality - dont progress until success
+- 
+
+
